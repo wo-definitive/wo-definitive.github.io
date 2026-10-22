@@ -19,7 +19,7 @@
     features_title: 'READY FOR BATTLE',
     features_sub: 'Built from scratch for quick, fair and competitive matches.',
     card1_title: 'Online Matches for 1 to 6 Players',
-    card1_text: 'Create private rooms with your friends or find a match worldwide with the built-in matchmaking system.',
+    card1_text: 'Create private rooms to play with your friends by invitation.',
     card2_title: 'Your Pets and Customization',
     card2_text: 'Choose from 8 pets, change their colors and equip them with hats, flags and mini pets.',
     card3_title: 'Practice Mode',
@@ -55,10 +55,10 @@
     link_privacy: 'Privacy Policy',
     link_terms: 'Terms and Conditions',
     link_home: 'Home Page',
-    footer_rights: '&copy; 2026 All rights reserved. F.R.R Entertainment.',
+    footer_rights: '&copy; 2026 F.R.R Entertainment',
     legal_badge: 'COMPLIANCE AND TRANSPARENCY CENTER',
     legal_title: 'LEGAL DOCUMENTATION',
-    legal_updated: 'Last updated: October 13, 2026',
+    legal_updated: 'Last updated: October 22, 2026',
     tab_privacy: 'PRIVACY POLICY',
     tab_terms: 'TERMS AND CONDITIONS'
   };
